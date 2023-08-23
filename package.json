@@ -1,0 +1,15 @@
+{
+  "name": "dotenv_vault",
+  "version": "1.0.0",
+  "description": "dot.env vault testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "waseem",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "dotenv-vault": "^1.25.0"
+  }
+}
